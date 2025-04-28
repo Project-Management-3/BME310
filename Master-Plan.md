@@ -1,6 +1,6 @@
 # Master Plan
 
-## 1. Analysis
+## 1. Analysis 
 - Gather requirements from Acibadem stakeholders
 - Define core features and technical specifications
 - Conduct user research and create user personas
