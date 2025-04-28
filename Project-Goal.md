@@ -7,4 +7,4 @@ The goal of this project is to develop a mobile app for Acibadem Group that allo
 - Video Consultations
 - Prescription Management
 - User Authentication
-- tba
+- ...
